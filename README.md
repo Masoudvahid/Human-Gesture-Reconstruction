@@ -24,7 +24,7 @@
 3. letter W: Is another experiment which two sensors where moved in a shape of W and the other two were in stationary
    position, you can find
    it [here](experiments/letter_W).  
-   ![letter W trajectory](experiments/letter_W/letter W.png)
+   ![letter W trajectory](experiments/letter_W/letter_W.png)
 
 ---
 #### [Link](https://masoudvahid.notion.site/Human-gesture-recognition-678efa1bb50942c2b9ce1e6c077c99ec?pvs=4) to the notion of this project
