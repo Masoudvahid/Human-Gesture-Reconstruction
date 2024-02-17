@@ -23,7 +23,7 @@
    ![helicopter trajectory](experiments/helicopter/helicopter.png)
 3. letter W: Is another experiment which two sensors where moved in a shape of W and the other two were in stationary
    position, you can find
-   it [here](experiments/letter_W).
+   it [here](experiments/letter_W).  
    ![letter W trajectory](experiments/letter_W/letter W.png)
 
 ---
