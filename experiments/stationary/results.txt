@@ -1,0 +1,47 @@
+### R2S between device_red_B0A104 and device_red_B1A105
+- accel_x: 0.998742
+- accel_y: 0.999651
+- accel_z: 0.996154
+- gyro_x: 0.816099
+- gyro_y: 0.919210
+- gyro_z: 0.983417
+
+### R2S between device_red_B0A104 and device_red_B1A104
+- accel_x: 0.994495
+- accel_y: 0.973472
+- accel_z: -0.244633
+- gyro_x: 0.845951
+- gyro_y: -40.870751
+- gyro_z: -4.279543
+
+### R2S between device_red_B0A104 and device_red_B0A105
+- accel_x: 0.986593
+- accel_y: 0.974706
+- accel_z: -0.071094
+- gyro_x: -0.757636
+- gyro_y: -0.218991
+- gyro_z: -2.975960
+
+### R2S between device_red_B1A105 and device_red_B1A104
+- accel_x: 0.997228
+- accel_y: 0.989519
+- accel_z: 0.234732
+- gyro_x: 0.567641
+- gyro_y: -41.089450
+- gyro_z: -4.542594
+
+### R2S between device_red_B1A105 and device_red_B0A105
+- accel_x: 0.994927
+- accel_y: 0.989906
+- accel_z: 0.347404
+- gyro_x: -0.656844
+- gyro_y: -0.349090
+- gyro_z: -3.173684
+
+### R2S between device_red_B1A104 and device_red_B0A105
+- accel_x: 0.999972
+- accel_y: 0.999998
+- accel_z: 0.999815
+- gyro_x: 0.620704
+- gyro_y: -0.511742
+- gyro_z: 0.566207
