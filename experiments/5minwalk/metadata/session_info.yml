@@ -1,0 +1,96 @@
+name: 5minwalk
+devices:
+  device_red:
+  - device_red_B0A104
+  - device_red_B0A105
+  - device_red_B1A104
+  - device_red_B1A105
+time:
+  start:
+    device_red: 1709290022.8488324
+  duration: 250
+sensors:
+  device_red_B0A104:
+    clock_source: 1
+    dlpf_mode: 6
+    rate: 9
+    sample_rate: 100.0
+    full_scale_accel_range: 0
+    full_scale_gyro_range: 0
+    accel_factor: 6.103515625e-05
+    gyro_factor: 0.00762939453125
+    accel_fifo_enabled: 1
+    x_gyro_fifo_enabled: 1
+    y_gyro_fifo_enabled: 1
+    z_gyro_fifo_enabled: 1
+    package_length: 12
+  device_red_B0A105:
+    clock_source: 1
+    dlpf_mode: 6
+    rate: 9
+    sample_rate: 100.0
+    full_scale_accel_range: 0
+    full_scale_gyro_range: 0
+    accel_factor: 6.103515625e-05
+    gyro_factor: 0.00762939453125
+    accel_fifo_enabled: 1
+    x_gyro_fifo_enabled: 1
+    y_gyro_fifo_enabled: 1
+    z_gyro_fifo_enabled: 1
+    package_length: 12
+  device_red_B1A104:
+    clock_source: 1
+    dlpf_mode: 6
+    rate: 9
+    sample_rate: 100.0
+    full_scale_accel_range: 0
+    full_scale_gyro_range: 0
+    accel_factor: 6.103515625e-05
+    gyro_factor: 0.00762939453125
+    accel_fifo_enabled: 1
+    x_gyro_fifo_enabled: 1
+    y_gyro_fifo_enabled: 1
+    z_gyro_fifo_enabled: 1
+    package_length: 12
+  device_red_B1A105:
+    clock_source: 1
+    dlpf_mode: 6
+    rate: 9
+    sample_rate: 100.0
+    full_scale_accel_range: 0
+    full_scale_gyro_range: 0
+    accel_factor: 6.103515625e-05
+    gyro_factor: 0.00762939453125
+    accel_fifo_enabled: 1
+    x_gyro_fifo_enabled: 1
+    y_gyro_fifo_enabled: 1
+    z_gyro_fifo_enabled: 1
+    package_length: 12
+overflows:
+  device_red_B0A104: []
+  device_red_B0A105: []
+  device_red_B1A104: []
+  device_red_B1A105: []
+files:
+  device_red_B0A104: device_red_B0A104
+  device_red_B0A105: device_red_B0A105
+  device_red_B1A104: device_red_B1A104
+  device_red_B1A105: device_red_B1A105
+n_packages:
+  device_red_B0A104: 24986
+  device_red_B0A105: 25042
+  device_red_B1A104: 25024
+  device_red_B1A105: 25038
+crops:
+  device_red_B0A104:
+  - 0
+  - 24986
+  device_red_B0A105:
+  - 0
+  - 24986
+  device_red_B1A104:
+  - 0
+  - 24986
+  device_red_B1A105:
+  - 0
+  - 24986
