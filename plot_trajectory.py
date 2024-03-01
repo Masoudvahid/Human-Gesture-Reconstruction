@@ -4,7 +4,7 @@ import matplotlib
 
 matplotlib.use('TkAgg')
 
-folder_name = r'experiments/letter_w'
+folder_name = r'experiments/1minwalk'
 files = [
     "/device_red_B0A104.csv",
     "/device_red_B1A105.csv",
